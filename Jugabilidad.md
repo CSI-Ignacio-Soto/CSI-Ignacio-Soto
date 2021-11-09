@@ -31,3 +31,9 @@
 #### El mundo del juego shellshocker es un mapa chiquito con muchos personajes y el mundo es 3D y es un mundo flotante. tambien puede ser indoor o outdoor depende del mapa tambien puede ser de noche o de Dia.
 
 
+<img   src=''https://www.gameroco.com/uploads/images/shell-shockers-3-8426.jpg''
+       title=''Colegio San Ignacio''
+       width=''20%''
+       height=''20%'' />
+
+
