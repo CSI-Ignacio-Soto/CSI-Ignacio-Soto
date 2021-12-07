@@ -42,3 +42,15 @@
         width="10%" 
         height="10%" />
         <h3> Steps: </h3>
+        <li>Prep:
+20 mins</li>
+<li>Cook:
+8 mins</li>
+<li>Additional:
+2 hrs 32 mins</li>
+<li>Total:
+3 hrs</li>
+<li>Servings:
+48</li>
+<li>Yield:
+4 dozen</li>
