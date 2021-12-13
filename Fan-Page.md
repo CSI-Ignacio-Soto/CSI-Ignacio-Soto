@@ -18,3 +18,37 @@
   
   In this challenge that his doing in the picture his doing last to leave the hummer wins 10,000 dollars. everyone had 20 minute to prepare and get all there stuff for the camping. The bigger the challenge the more time you have to prepare yourself. some of them brought food another one brought a tent and one guy put a pool un the back of the hummer. to win the challenge lots of time some of them team up and they team up and one wins they split the money. When they team up they mostly do savatage to the other players and win.
 </p>
+<table>
+    <tr>
+        <th>Name</th>
+        <td>Carter Sharer</td>
+    </tr>
+    <tr>
+        <th>Age</th>
+        <td>28</td>
+    </tr>
+    <tr>
+        <th>Birthday</th>
+        <td>October 23</td>
+    </tr>
+        <tr>
+        <th>Nationality</th>
+        <td>California</td>
+    </tr>
+    <tr>
+        <th>Instagram</th>
+        <td>https://www.instagram.com/cartersharer/?hl=en</td>
+    </tr>
+    <tr>
+        <th>Twitter</th>
+        <td>https://twitter.com/cartersharer</td>
+    </tr>
+    <tr>
+        <th>Youtube</th>
+        <td>
+Carter Sharer</td>
+    </tr>
+    <tr>
+       
+</table>
+
